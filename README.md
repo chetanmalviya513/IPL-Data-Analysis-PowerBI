@@ -1,4 +1,4 @@
-# IPL Data Analysis | Power BI Dashboard
+# Cricket Analytics: IPL Trends & Insights with Power BI Dashboard
 
 This project provides a comprehensive analysis of Indian Premier League (IPL) matches from 2008 to the present. Using Power BI, it visualizes and explores player performances, team statistics, and overall match trends through an interactive dashboard.
 
